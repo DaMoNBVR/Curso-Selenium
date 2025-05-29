@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class RandomUtilities {
@@ -39,6 +41,34 @@ public class RandomUtilities {
         }
 
         return array;
+
+    }
+
+    static List<Integer> generarListaIntAleatoria(int n, int max, int min, Random random){
+
+        final var listaAleatoria = new ArrayList<Integer>();
+
+        for (var i = 0; i < n; i++) {
+
+            listaAleatoria.add( generarRandomInt(max, min, random));
+
+        }
+
+        return listaAleatoria;
+
+    }
+
+    static List<Double> generarListaDoubleAleatoria(int n, int max, int min, Random random){
+
+        final var listaAleatoria = new ArrayList<Double>();
+
+        for (var i = 0; i < n; i++) {
+
+            listaAleatoria.add( generarRandomDouble(max, min, random));
+
+        }
+
+        return listaAleatoria;
 
     }
 

@@ -1,8 +1,7 @@
-import javax.management.relation.RelationNotFoundException;
 import java.util.Arrays;
 import java.util.Random;
 
-public class EjercicioBubbleSort {
+public class EjercicioBubbleSortArrays {
     public static void main(String[] args) {
 
         final var arrayAleatorio = RandomUtilities.generarRandomArrayInt(30,10,500, new Random());
