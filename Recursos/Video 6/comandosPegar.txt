@@ -1,0 +1,5 @@
+OJO: el primer comando sale al verificar el path de Java, puede no ser el mismo
+    el segundo comando siempre es igual 
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home
+export PATH="$JAVA_HOME/bin:$PATH"

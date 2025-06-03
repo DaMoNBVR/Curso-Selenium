@@ -1,0 +1,4 @@
+08:34:41.255 ERROR AUTOMATION - Esto es un error
+08:34:41.258 INFO  AUTOMATION - Soy un paso de alto nivel
+08:34:41.258 DEBUG AUTOMATION - Soy un paso técnico
+08:34:41.258 TRACE AUTOMATION - Soy un paso detallado

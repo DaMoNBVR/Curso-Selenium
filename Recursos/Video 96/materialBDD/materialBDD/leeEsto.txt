@@ -1,0 +1,5 @@
+SOBRE EL ARCHIVO partePOM.txt :
+* Este archivo tiene la estructura del partePOM
+* Lo que uds tienen que hacer es actualizar las versiones a la ultima que encuentren disponible o si quieren usar las que uso en el video
+* Los links de las dependencias y/o plugins están encima de cada uno
+* Se ha cambiado la dependencia javafaker por data faker ya que al parecer es más segura. Sin embargo, son los mismos métodos
