@@ -1,0 +1,2 @@
+08:04:52.180 ERROR AUTOMATION - IOException: Unrecognized field "punchline" (class modelos.Joke), not marked as ignorable (4 known properties: "type", "id", "setup", "punchLine"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 23] (through reference chain: java.lang.Object[][0]->modelos.Joke["punchline"])
