@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="DEBUG">
+    <Properties>
+        <Property name="pattern">%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</Property>
+    </Properties>
+
+    <Appenders>
+        <File name="logsInfo" fileName="logs/informativeLogs.log" append="false">
+            <PatternLayout pattern="${pattern}" />
+            <Filters>
+                <ThresholdFilter level="info" onMatch="ACCEPT" onMismatch="DENY" />
+            </Filters>
+        </File>
+
+        <File name="logsDebug" fileName="logs/debugLogs.log" append="false">
+            <PatternLayout pattern="${pattern}" />
+            <Filters>
+                <ThresholdFilter level="debug" onMatch="ACCEPT" onMismatch="DENY" />
+            </Filters>
+        </File>
+
+        <File name="logsTrace" fileName="logs/traceLogs.log" append="false">
+            <PatternLayout pattern="${pattern}" />
+            <Filters>
+                <ThresholdFilter level="trace" onMatch="ACCEPT" onMismatch="DENY" />
+            </Filters>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="AUTOMATION" level="trace" additivity="false">
+            <AppenderRef ref="logsInfo" />
+            <AppenderRef ref="logsDebug" />
+            <AppenderRef ref="logsTrace" />
+        </Logger>
+
+        <Root level="error" />
+    </Loggers>
+</Configuration>
