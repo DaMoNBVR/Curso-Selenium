@@ -1,182 +1,196 @@
-10:41:12.861 INFO  AUTOMATION - Suite iniciada: Surefire suite
-10:41:12.941 INFO  AUTOMATION - Setup del padre
-10:41:13.259 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:13.405 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:13.484 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
-10:41:13.487 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
-10:41:13.488 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
-10:41:13.489 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
-10:41:13.489 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
-10:41:13.490 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
-10:41:13.502 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
-10:41:13.503 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
-10:41:13.506 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
-10:41:13.507 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
-10:41:13.507 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
-10:41:13.507 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
-10:41:13.507 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
-10:41:13.508 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
-10:41:13.562 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
-10:41:13.562 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
-10:41:13.633 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
-10:41:13.638 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
-10:41:13.640 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
-10:41:13.641 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
-10:41:13.658 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
-10:41:13.660 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
-10:41:13.663 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
-10:41:13.670 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
-10:41:13.671 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
-10:41:13.674 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
-10:41:13.676 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
-10:41:13.680 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
-10:41:13.684 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
-10:41:13.686 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
-10:41:13.689 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
-10:41:13.690 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
-10:41:13.694 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
-10:41:13.722 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
-10:41:13.745 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellstylexfid70c7type
-10:41:13.795 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:13.800 INFO  AUTOMATION - Comenzando el test: cuartoTest
-10:41:13.846 INFO  AUTOMATION - Test exitoso: cuartoTest
-10:41:13.847 INFO  AUTOMATION - Teardown del padre
-10:41:13.855 INFO  AUTOMATION - Setup del padre
-10:41:13.865 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:13.867 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:13.889 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:13.890 INFO  AUTOMATION - Comenzando el test: primerTest
-10:41:13.893 INFO  AUTOMATION - Test exitoso: primerTest
-10:41:13.894 INFO  AUTOMATION - Teardown del padre
-10:41:13.910 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:13.912 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:13.933 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:13.936 INFO  AUTOMATION - Setup del padre
-10:41:13.943 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:13.946 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:13.965 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:13.966 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:13.973 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:13.974 INFO  AUTOMATION - Teardown del padre
-10:41:13.976 INFO  AUTOMATION - Setup del padre
-10:41:13.982 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:13.985 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.001 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.002 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.005 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.006 INFO  AUTOMATION - Teardown del padre
-10:41:14.007 INFO  AUTOMATION - Setup del padre
-10:41:14.014 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.016 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.048 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.049 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.053 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.053 INFO  AUTOMATION - Teardown del padre
-10:41:14.055 INFO  AUTOMATION - Setup del padre
-10:41:14.061 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.064 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.078 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.079 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.083 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.084 INFO  AUTOMATION - Teardown del padre
-10:41:14.084 INFO  AUTOMATION - Setup del padre
-10:41:14.091 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.092 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.107 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.108 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.111 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.112 INFO  AUTOMATION - Teardown del padre
-10:41:14.113 INFO  AUTOMATION - Setup del padre
-10:41:14.120 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.120 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.135 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.136 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.140 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.140 INFO  AUTOMATION - Teardown del padre
-10:41:14.142 INFO  AUTOMATION - Setup del padre
-10:41:14.161 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.162 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.176 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.178 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.182 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.182 INFO  AUTOMATION - Teardown del padre
-10:41:14.184 INFO  AUTOMATION - Setup del padre
-10:41:14.190 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.191 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.204 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.205 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.208 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.208 INFO  AUTOMATION - Teardown del padre
-10:41:14.210 INFO  AUTOMATION - Setup del padre
-10:41:14.217 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.218 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.231 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.232 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.235 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.236 INFO  AUTOMATION - Teardown del padre
-10:41:14.237 INFO  AUTOMATION - Setup del padre
-10:41:14.243 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.244 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.256 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.258 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.261 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.262 INFO  AUTOMATION - Teardown del padre
-10:41:14.263 INFO  AUTOMATION - Setup del padre
-10:41:14.269 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.271 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.283 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.283 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.288 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.289 INFO  AUTOMATION - Teardown del padre
-10:41:14.290 INFO  AUTOMATION - Setup del padre
-10:41:14.296 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.297 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.309 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.310 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.313 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.314 INFO  AUTOMATION - Teardown del padre
-10:41:14.315 INFO  AUTOMATION - Setup del padre
-10:41:14.322 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.323 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.335 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.336 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.340 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.340 INFO  AUTOMATION - Teardown del padre
-10:41:14.342 INFO  AUTOMATION - Setup del padre
-10:41:14.347 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.348 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.360 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.362 INFO  AUTOMATION - Comenzando el test: quintoTest
-10:41:14.365 INFO  AUTOMATION - Test exitoso: quintoTest
-10:41:14.366 INFO  AUTOMATION - Teardown del padre
-10:41:14.368 INFO  AUTOMATION - Setup del padre
-10:41:14.372 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.373 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.385 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.386 INFO  AUTOMATION - Comenzando el test: segundoTest
-10:41:14.390 INFO  AUTOMATION - Test exitoso: segundoTest
-10:41:14.391 INFO  AUTOMATION - Teardown del padre
-10:41:14.392 INFO  AUTOMATION - Setup del padre
-10:41:14.397 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-10:41:14.398 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-10:41:14.408 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
-10:41:14.410 INFO  AUTOMATION - Comenzando el test: tercerTest
-10:41:14.413 INFO  AUTOMATION - Test exitoso: tercerTest
-10:41:14.413 INFO  AUTOMATION - Teardown del padre
-10:41:14.416 INFO  AUTOMATION - Setup del padre
-10:41:14.681 INFO  AUTOMATION - Comenzando el test: cuartoTest
-10:41:14.685 INFO  AUTOMATION - Test exitoso: cuartoTest
-10:41:14.686 INFO  AUTOMATION - Teardown del padre
-10:41:14.688 INFO  AUTOMATION - Setup del padre
-10:41:14.692 INFO  AUTOMATION - Comenzando el test: primerTest
-10:41:14.695 INFO  AUTOMATION - Test exitoso: primerTest
-10:41:14.697 INFO  AUTOMATION - Teardown del padre
-10:41:14.699 INFO  AUTOMATION - Setup del padre
-10:41:14.704 INFO  AUTOMATION - Comenzando el test: segundoTest
-10:41:14.708 INFO  AUTOMATION - Test exitoso: segundoTest
-10:41:14.709 INFO  AUTOMATION - Teardown del padre
-10:41:14.711 INFO  AUTOMATION - Setup del padre
-10:41:14.720 INFO  AUTOMATION - Comenzando el test: tercerTest
-10:41:14.724 INFO  AUTOMATION - Test exitoso: tercerTest
-10:41:14.725 INFO  AUTOMATION - Teardown del padre
-10:41:14.757 INFO  AUTOMATION - Suite finalizada: Surefire suite
+09:28:21.770 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bairo\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+09:28:22.313 TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.masterSetUp()[pri:0, instance:null] 619090171
+09:28:22.313 TRACE org.testng.internal.Graph - [Graph] ADDING NODE ExcelMonstruoTest.setUp()[pri:0, instance:null] 2126185044
+09:28:22.315 TRACE org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR ExcelMonstruoTest.setUp()[pri:0, instance:null] ==> BaseTest.masterSetUp()[pri:0, instance:null]
+09:28:22.318 TRACE org.testng.internal.Graph - [Graph]   REMOVED BaseTest.masterSetUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+09:28:22.318 TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:28:22.330 TRACE org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR ExcelMonstruoTest.setUp()[pri:0, instance:null] ==> BaseTest.masterSetUp()[pri:0, instance:null]
+09:28:22.332 TRACE org.testng.internal.Graph - [Graph]   REMOVED PRED BaseTest.masterSetUp()[pri:0, instance:null] FROM NODE ExcelMonstruoTest.setUp()[pri:0, instance:null]
+09:28:22.332 TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:28:22.332 TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:28:22.332 TRACE org.testng.internal.Graph - [Graph]               BaseTest.masterSetUp()[pri:0, instance:null]
+09:28:22.332 TRACE org.testng.internal.Graph - [Graph]               ExcelMonstruoTest.setUp()[pri:0, instance:null]
+09:28:22.332 TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:28:22.333 TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.tearDown()[pri:0, instance:null] -264961086
+09:28:22.333 TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:28:22.334 TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:28:22.334 TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:28:22.334 TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:28:22.338 TRACE org.testng.internal.Graph - [Graph] ADDING NODE ExcelMonstruoTest.primerTest()[pri:0, instance:principal.ExcelMonstruoTest@5261ec9] -1586735491
+09:28:22.339 TRACE org.testng.internal.Graph - [Graph] ADDING NODE ExcelMonstruoTest.segundoTest()[pri:0, instance:principal.ExcelMonstruoTest@5261ec9] 1955154087
+09:28:22.339 TRACE org.testng.internal.Graph - [Graph] ADDING NODE ExcelMonstruoTest.cuartoTest()[pri:0, instance:principal.ExcelMonstruoTest@5261ec9] -885215662
+09:28:22.339 TRACE org.testng.internal.Graph - [Graph] ADDING NODE ExcelMonstruoTest.tercerTest()[pri:0, instance:principal.ExcelMonstruoTest@5261ec9] 1863918145
+09:28:22.339 TRACE org.testng.internal.Graph - [Graph] ADDING NODE ExcelMonstruoTest.quintoTest(modelos.Monstruo)[pri:0, instance:principal.ExcelMonstruoTest@5261ec9] -2062800724
+09:28:22.339 TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:28:22.340 TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:28:22.340 TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:28:22.340 TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:28:22.347 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bairo\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+09:28:22.351 INFO  AUTOMATION - Suite iniciada: Default Suite
+09:28:22.411 INFO  AUTOMATION - Setup del padre
+09:28:22.634 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:22.727 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:22.800 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+09:28:22.803 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:28:22.804 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:28:22.805 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:28:22.805 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:28:22.806 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:28:22.817 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:28:22.817 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:28:22.821 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:28:22.821 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:28:22.822 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:28:22.822 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:28:22.823 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:28:22.823 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+09:28:22.869 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+09:28:22.870 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+09:28:22.923 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+09:28:22.927 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+09:28:22.929 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+09:28:22.930 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+09:28:22.944 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+09:28:22.946 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+09:28:22.948 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+09:28:22.953 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+09:28:22.955 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+09:28:22.956 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+09:28:22.958 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+09:28:22.960 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+09:28:22.961 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+09:28:22.964 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+09:28:22.965 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+09:28:22.966 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+09:28:22.968 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+09:28:22.992 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+09:28:23.002 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+09:28:23.036 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.039 INFO  AUTOMATION - Comenzando el test: cuartoTest
+09:28:23.075 INFO  AUTOMATION - Test exitoso: cuartoTest
+09:28:23.076 INFO  AUTOMATION - Teardown del padre
+09:28:23.081 INFO  AUTOMATION - Setup del padre
+09:28:23.088 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.090 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.110 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.111 INFO  AUTOMATION - Comenzando el test: primerTest
+09:28:23.114 INFO  AUTOMATION - Test exitoso: primerTest
+09:28:23.114 INFO  AUTOMATION - Teardown del padre
+09:28:23.128 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.131 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.155 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.159 INFO  AUTOMATION - Setup del padre
+09:28:23.168 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.170 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.192 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.194 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.203 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.204 INFO  AUTOMATION - Teardown del padre
+09:28:23.207 INFO  AUTOMATION - Setup del padre
+09:28:23.217 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.219 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.240 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.242 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.247 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.248 INFO  AUTOMATION - Teardown del padre
+09:28:23.251 INFO  AUTOMATION - Setup del padre
+09:28:23.259 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.262 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.278 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.280 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.284 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.285 INFO  AUTOMATION - Teardown del padre
+09:28:23.287 INFO  AUTOMATION - Setup del padre
+09:28:23.296 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.297 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.315 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.317 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.320 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.321 INFO  AUTOMATION - Teardown del padre
+09:28:23.323 INFO  AUTOMATION - Setup del padre
+09:28:23.330 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.332 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.349 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.352 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.356 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.357 INFO  AUTOMATION - Teardown del padre
+09:28:23.359 INFO  AUTOMATION - Setup del padre
+09:28:23.367 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.369 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.394 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.396 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.401 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.402 INFO  AUTOMATION - Teardown del padre
+09:28:23.405 INFO  AUTOMATION - Setup del padre
+09:28:23.416 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.417 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.433 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.435 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.439 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.440 INFO  AUTOMATION - Teardown del padre
+09:28:23.442 INFO  AUTOMATION - Setup del padre
+09:28:23.448 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.450 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.466 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.468 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.471 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.472 INFO  AUTOMATION - Teardown del padre
+09:28:23.475 INFO  AUTOMATION - Setup del padre
+09:28:23.481 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.482 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.494 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.496 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.499 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.500 INFO  AUTOMATION - Teardown del padre
+09:28:23.501 INFO  AUTOMATION - Setup del padre
+09:28:23.508 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.510 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.522 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.525 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.530 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.531 INFO  AUTOMATION - Teardown del padre
+09:28:23.533 INFO  AUTOMATION - Setup del padre
+09:28:23.540 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.542 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.553 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.555 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.558 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.559 INFO  AUTOMATION - Teardown del padre
+09:28:23.561 INFO  AUTOMATION - Setup del padre
+09:28:23.568 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.569 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.580 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.582 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.584 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.585 INFO  AUTOMATION - Teardown del padre
+09:28:23.587 INFO  AUTOMATION - Setup del padre
+09:28:23.593 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.594 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.604 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.605 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.608 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.608 INFO  AUTOMATION - Teardown del padre
+09:28:23.610 INFO  AUTOMATION - Setup del padre
+09:28:23.615 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.617 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.625 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.627 INFO  AUTOMATION - Comenzando el test: quintoTest
+09:28:23.629 INFO  AUTOMATION - Test exitoso: quintoTest
+09:28:23.630 INFO  AUTOMATION - Teardown del padre
+09:28:23.633 INFO  AUTOMATION - Setup del padre
+09:28:23.638 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.639 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.650 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.653 INFO  AUTOMATION - Comenzando el test: segundoTest
+09:28:23.656 INFO  AUTOMATION - Test exitoso: segundoTest
+09:28:23.657 INFO  AUTOMATION - Teardown del padre
+09:28:23.661 INFO  AUTOMATION - Setup del padre
+09:28:23.667 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:28:23.668 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:28:23.681 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:28:23.683 INFO  AUTOMATION - Comenzando el test: tercerTest
+09:28:23.689 INFO  AUTOMATION - Test exitoso: tercerTest
+09:28:23.690 INFO  AUTOMATION - Teardown del padre
+09:28:23.703 INFO  AUTOMATION - Suite finalizada: Default Suite

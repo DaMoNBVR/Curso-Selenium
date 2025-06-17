@@ -1,0 +1,296 @@
+11:50:18.350 INFO  AUTOMATION - Suite iniciada: Surefire suite
+11:50:18.378 DEBUG AUTOMATION - Borrando la evidencia anterior
+11:50:18.483 INFO  AUTOMATION - Setup del padre
+11:50:18.486 DEBUG AUTOMATION - Inicializando el driver
+11:50:19.787 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:19.811 DEBUG AUTOMATION - Borrando las cookies
+11:50:19.818 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:19.889 INFO  AUTOMATION - Comenzando el test: ejercicio1Test
+11:50:19.912 INFO  AUTOMATION - Navegando a: https://www.saucedemo.com/
+11:50:20.759 INFO  AUTOMATION - Obteniendo la url actual
+11:50:20.766 INFO  AUTOMATION - Verificando que las urls sean iguales
+11:50:20.773 DEBUG AUTOMATION - Before test stop de allure
+11:50:20.782 INFO  AUTOMATION - Test exitoso: ejercicio1Test
+11:50:20.784 DEBUG AUTOMATION - Matando al driver   
+11:50:20.908 INFO  AUTOMATION - Setup del padre
+11:50:20.908 DEBUG AUTOMATION - Inicializando el driver
+11:50:21.605 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:21.629 DEBUG AUTOMATION - Borrando las cookies
+11:50:21.637 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:21.639 INFO  AUTOMATION - Comenzando el test: ejercicio2Test
+11:50:21.641 INFO  AUTOMATION - Navegando a: https://the-internet.herokuapp.com/
+11:50:22.663 INFO  AUTOMATION - Navegando a: https://github.com/
+11:50:24.238 INFO  AUTOMATION - Regresando a: https://the-internet.herokuapp.com/
+11:50:24.257 INFO  AUTOMATION - Obteniendo la url actual
+11:50:24.263 INFO  AUTOMATION - Verificando que las urls sean iguales
+11:50:24.264 DEBUG AUTOMATION - Before test stop de allure
+11:50:24.266 INFO  AUTOMATION - Test exitoso: ejercicio2Test
+11:50:24.266 DEBUG AUTOMATION - Matando al driver   
+11:50:24.379 INFO  AUTOMATION - Setup del padre
+11:50:24.379 DEBUG AUTOMATION - Inicializando el driver
+11:50:25.057 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:25.081 DEBUG AUTOMATION - Borrando las cookies
+11:50:25.086 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:25.088 INFO  AUTOMATION - Comenzando el test: siempreFallaTest
+11:50:25.090 INFO  AUTOMATION - Navegando a: https://the-internet.herokuapp.com/
+11:50:26.116 INFO  AUTOMATION - Obteniendo la url actual
+11:50:26.120 INFO  AUTOMATION - Verificando que las urls sean iguales
+11:50:26.123 DEBUG AUTOMATION - Before test stop de allure
+11:50:26.239 INFO  AUTOMATION - Test fallido: siempreFallaTest
+11:50:26.239 DEBUG AUTOMATION - Tomando screenshot
+11:50:26.338 DEBUG AUTOMATION - Matando al driver   
+11:50:26.445 INFO  AUTOMATION - Setup del padre
+11:50:26.445 DEBUG AUTOMATION - Inicializando el driver
+11:50:27.116 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:27.141 DEBUG AUTOMATION - Borrando las cookies
+11:50:27.147 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:27.321 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:27.448 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:27.539 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:50:27.543 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:50:27.545 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:50:27.545 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:50:27.546 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:50:27.546 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:50:27.557 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:50:27.558 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:50:27.561 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:50:27.561 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:50:27.562 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:50:27.562 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:50:27.563 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:50:27.564 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:50:27.603 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:50:27.603 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+11:50:27.677 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+11:50:27.686 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+11:50:27.689 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+11:50:27.691 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+11:50:27.700 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+11:50:27.703 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+11:50:27.706 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+11:50:27.715 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+11:50:27.717 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+11:50:27.719 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+11:50:27.722 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+11:50:27.725 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+11:50:27.728 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+11:50:27.731 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+11:50:27.733 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+11:50:27.735 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+11:50:27.737 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+11:50:27.768 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+11:50:27.779 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+11:50:27.811 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:27.813 INFO  AUTOMATION - Comenzando el test: cuartoTest
+11:50:27.820 DEBUG AUTOMATION - Before test stop de allure
+11:50:27.821 INFO  AUTOMATION - Test exitoso: cuartoTest
+11:50:27.822 DEBUG AUTOMATION - Matando al driver   
+11:50:27.922 INFO  AUTOMATION - Setup del padre
+11:50:27.922 DEBUG AUTOMATION - Inicializando el driver
+11:50:28.700 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:28.727 DEBUG AUTOMATION - Borrando las cookies
+11:50:29.005 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:29.012 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:29.014 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:29.032 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:29.034 INFO  AUTOMATION - Comenzando el test: primerTest
+11:50:29.035 DEBUG AUTOMATION - Before test stop de allure
+11:50:29.036 INFO  AUTOMATION - Test exitoso: primerTest
+11:50:29.037 DEBUG AUTOMATION - Matando al driver   
+11:50:29.142 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:29.144 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:29.161 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:29.164 INFO  AUTOMATION - Setup del padre
+11:50:29.164 DEBUG AUTOMATION - Inicializando el driver
+11:50:29.832 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:29.856 DEBUG AUTOMATION - Borrando las cookies
+11:50:29.863 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:29.869 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:29.871 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:29.886 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:29.887 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:29.891 DEBUG AUTOMATION - Before test stop de allure
+11:50:29.893 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:29.894 DEBUG AUTOMATION - Matando al driver   
+11:50:29.989 INFO  AUTOMATION - Setup del padre
+11:50:29.989 DEBUG AUTOMATION - Inicializando el driver
+11:50:30.658 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:30.685 DEBUG AUTOMATION - Borrando las cookies
+11:50:30.694 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:30.705 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:30.707 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:30.727 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:30.729 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:30.731 DEBUG AUTOMATION - Before test stop de allure
+11:50:30.732 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:30.733 DEBUG AUTOMATION - Matando al driver   
+11:50:30.828 INFO  AUTOMATION - Setup del padre
+11:50:30.828 DEBUG AUTOMATION - Inicializando el driver
+11:50:31.503 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:31.526 DEBUG AUTOMATION - Borrando las cookies
+11:50:31.533 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:31.539 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:31.541 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:31.554 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:31.555 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:31.557 DEBUG AUTOMATION - Before test stop de allure
+11:50:31.558 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:31.558 DEBUG AUTOMATION - Matando al driver   
+11:50:31.666 INFO  AUTOMATION - Setup del padre
+11:50:31.667 DEBUG AUTOMATION - Inicializando el driver
+11:50:32.655 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:32.681 DEBUG AUTOMATION - Borrando las cookies
+11:50:33.014 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:33.020 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:33.022 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:33.036 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:33.038 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:33.038 DEBUG AUTOMATION - Before test stop de allure
+11:50:33.039 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:33.040 DEBUG AUTOMATION - Matando al driver   
+11:50:33.143 INFO  AUTOMATION - Setup del padre
+11:50:33.143 DEBUG AUTOMATION - Inicializando el driver
+11:50:33.834 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:33.862 DEBUG AUTOMATION - Borrando las cookies
+11:50:33.870 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:33.875 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:33.877 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:33.888 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:33.889 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:33.891 DEBUG AUTOMATION - Before test stop de allure
+11:50:33.892 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:33.892 DEBUG AUTOMATION - Matando al driver   
+11:50:34.161 INFO  AUTOMATION - Setup del padre
+11:50:34.162 DEBUG AUTOMATION - Inicializando el driver
+11:50:34.825 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:34.850 DEBUG AUTOMATION - Borrando las cookies
+11:50:34.857 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:34.864 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:34.866 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:34.881 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:34.883 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:34.885 DEBUG AUTOMATION - Before test stop de allure
+11:50:34.886 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:34.887 DEBUG AUTOMATION - Matando al driver   
+11:50:35.022 INFO  AUTOMATION - Setup del padre
+11:50:35.022 DEBUG AUTOMATION - Inicializando el driver
+11:50:35.688 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:35.712 DEBUG AUTOMATION - Borrando las cookies
+11:50:35.718 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:35.724 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:35.726 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:35.742 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:35.744 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:35.746 DEBUG AUTOMATION - Before test stop de allure
+11:50:35.748 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:35.748 DEBUG AUTOMATION - Matando al driver   
+11:50:35.851 INFO  AUTOMATION - Setup del padre
+11:50:35.852 DEBUG AUTOMATION - Inicializando el driver
+11:50:36.531 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:36.555 DEBUG AUTOMATION - Borrando las cookies
+11:50:36.562 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:36.567 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:36.567 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:36.578 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:36.579 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:36.581 DEBUG AUTOMATION - Before test stop de allure
+11:50:36.582 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:36.582 DEBUG AUTOMATION - Matando al driver   
+11:50:36.672 INFO  AUTOMATION - Setup del padre
+11:50:36.673 DEBUG AUTOMATION - Inicializando el driver
+11:50:37.360 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:37.385 DEBUG AUTOMATION - Borrando las cookies
+11:50:37.393 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:37.398 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:37.400 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:37.411 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:37.412 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:37.414 DEBUG AUTOMATION - Before test stop de allure
+11:50:37.415 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:37.415 DEBUG AUTOMATION - Matando al driver   
+11:50:37.510 INFO  AUTOMATION - Setup del padre
+11:50:37.510 DEBUG AUTOMATION - Inicializando el driver
+11:50:38.191 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:38.214 DEBUG AUTOMATION - Borrando las cookies
+11:50:38.234 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:38.245 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:38.250 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:38.263 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:38.265 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:38.267 DEBUG AUTOMATION - Before test stop de allure
+11:50:38.268 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:38.269 DEBUG AUTOMATION - Matando al driver   
+11:50:38.374 INFO  AUTOMATION - Setup del padre
+11:50:38.374 DEBUG AUTOMATION - Inicializando el driver
+11:50:39.053 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:39.076 DEBUG AUTOMATION - Borrando las cookies
+11:50:39.083 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:39.087 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:39.089 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:39.098 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:39.099 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:39.100 DEBUG AUTOMATION - Before test stop de allure
+11:50:39.101 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:39.102 DEBUG AUTOMATION - Matando al driver   
+11:50:39.192 INFO  AUTOMATION - Setup del padre
+11:50:39.192 DEBUG AUTOMATION - Inicializando el driver
+11:50:39.924 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:39.947 DEBUG AUTOMATION - Borrando las cookies
+11:50:40.612 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:40.617 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:40.619 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:40.627 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:40.628 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:40.630 DEBUG AUTOMATION - Before test stop de allure
+11:50:40.631 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:40.632 DEBUG AUTOMATION - Matando al driver   
+11:50:40.733 INFO  AUTOMATION - Setup del padre
+11:50:40.734 DEBUG AUTOMATION - Inicializando el driver
+11:50:41.393 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:41.416 DEBUG AUTOMATION - Borrando las cookies
+11:50:41.422 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:41.427 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:41.428 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:41.438 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:41.439 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:41.441 DEBUG AUTOMATION - Before test stop de allure
+11:50:41.442 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:41.443 DEBUG AUTOMATION - Matando al driver   
+11:50:41.545 INFO  AUTOMATION - Setup del padre
+11:50:41.545 DEBUG AUTOMATION - Inicializando el driver
+11:50:42.211 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:42.233 DEBUG AUTOMATION - Borrando las cookies
+11:50:42.239 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:42.244 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:42.245 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:42.253 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:42.254 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:50:42.255 DEBUG AUTOMATION - Before test stop de allure
+11:50:42.256 INFO  AUTOMATION - Test exitoso: quintoTest
+11:50:42.257 DEBUG AUTOMATION - Matando al driver   
+11:50:42.344 INFO  AUTOMATION - Setup del padre
+11:50:42.344 DEBUG AUTOMATION - Inicializando el driver
+11:50:43.008 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:43.033 DEBUG AUTOMATION - Borrando las cookies
+11:50:43.040 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:43.045 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:43.046 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:43.055 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:43.056 INFO  AUTOMATION - Comenzando el test: segundoTest
+11:50:43.058 DEBUG AUTOMATION - Before test stop de allure
+11:50:43.059 INFO  AUTOMATION - Test exitoso: segundoTest
+11:50:43.059 DEBUG AUTOMATION - Matando al driver   
+11:50:43.222 INFO  AUTOMATION - Setup del padre
+11:50:43.222 DEBUG AUTOMATION - Inicializando el driver
+11:50:43.900 DEBUG AUTOMATION - Maximizando la pantalla
+11:50:43.925 DEBUG AUTOMATION - Borrando las cookies
+11:50:43.932 DEBUG AUTOMATION - Asignando el webdriver provider
+11:50:43.939 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:43.941 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:43.952 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:50:43.953 INFO  AUTOMATION - Comenzando el test: tercerTest
+11:50:43.954 DEBUG AUTOMATION - Before test stop de allure
+11:50:43.955 INFO  AUTOMATION - Test exitoso: tercerTest
+11:50:43.955 DEBUG AUTOMATION - Matando al driver   
+11:50:44.094 INFO  AUTOMATION - Suite finalizada: Surefire suite

@@ -1,0 +1,28 @@
+10:12:03.163 INFO  AUTOMATION - beforeAll
+10:12:03.217 INFO  AUTOMATION - before: Suma positiva
+10:12:03.240 INFO  AUTOMATION - after: Suma positiva, status &s
+10:12:03.243 INFO  AUTOMATION - before: Producto positivo
+10:12:03.244 INFO  AUTOMATION - after: Producto positivo, status &s
+10:12:03.245 INFO  AUTOMATION - before: Raiz cuadrada positiva
+10:12:03.247 INFO  AUTOMATION - after: Raiz cuadrada positiva, status &s
+10:12:03.253 INFO  AUTOMATION - before: Verificar el primer elemento
+10:12:03.692 INFO  AUTOMATION - after: Verificar el primer elemento, status &s
+10:12:03.693 INFO  AUTOMATION - before: Verificar el último elemento
+10:12:03.725 INFO  AUTOMATION - after: Verificar el último elemento, status &s
+10:12:03.728 INFO  AUTOMATION - before: Verificar la longitud de la lista
+10:12:03.757 INFO  AUTOMATION - after: Verificar la longitud de la lista, status &s
+10:12:03.758 INFO  AUTOMATION - before: Verificar 4 primeros elementos
+10:12:03.789 INFO  AUTOMATION - after: Verificar 4 primeros elementos, status &s
+10:12:03.790 INFO  AUTOMATION - before: Verificar 4 primeros elementos
+10:12:03.814 INFO  AUTOMATION - after: Verificar 4 primeros elementos, status &s
+10:12:03.815 INFO  AUTOMATION - before: Verificar 4 primeros elementos
+10:12:03.837 INFO  AUTOMATION - after: Verificar 4 primeros elementos, status &s
+10:12:03.839 INFO  AUTOMATION - before: Verificar 4 primeros elementos
+10:12:03.859 INFO  AUTOMATION - after: Verificar 4 primeros elementos, status &s
+10:12:03.861 INFO  AUTOMATION - before: Verificar que el id sea positivo
+10:12:03.988 INFO  AUTOMATION - after: Verificar que el id sea positivo, status &s
+10:12:03.990 INFO  AUTOMATION - before: Longitud tiene su valor correcto
+10:12:03.996 INFO  AUTOMATION - after: Longitud tiene su valor correcto, status &s
+10:12:03.997 INFO  AUTOMATION - before: La Longitud de company bs sea correcta
+10:12:04.001 INFO  AUTOMATION - after: La Longitud de company bs sea correcta, status &s
+10:12:04.002 INFO  AUTOMATION - afterAll
