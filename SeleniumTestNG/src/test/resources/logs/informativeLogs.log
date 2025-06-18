@@ -1,76 +1,12 @@
-11:50:18.350 INFO  AUTOMATION - Suite iniciada: Surefire suite
-11:50:18.483 INFO  AUTOMATION - Setup del padre
-11:50:19.889 INFO  AUTOMATION - Comenzando el test: ejercicio1Test
-11:50:19.912 INFO  AUTOMATION - Navegando a: https://www.saucedemo.com/
-11:50:20.759 INFO  AUTOMATION - Obteniendo la url actual
-11:50:20.766 INFO  AUTOMATION - Verificando que las urls sean iguales
-11:50:20.782 INFO  AUTOMATION - Test exitoso: ejercicio1Test
-11:50:20.908 INFO  AUTOMATION - Setup del padre
-11:50:21.639 INFO  AUTOMATION - Comenzando el test: ejercicio2Test
-11:50:21.641 INFO  AUTOMATION - Navegando a: https://the-internet.herokuapp.com/
-11:50:22.663 INFO  AUTOMATION - Navegando a: https://github.com/
-11:50:24.238 INFO  AUTOMATION - Regresando a: https://the-internet.herokuapp.com/
-11:50:24.257 INFO  AUTOMATION - Obteniendo la url actual
-11:50:24.263 INFO  AUTOMATION - Verificando que las urls sean iguales
-11:50:24.266 INFO  AUTOMATION - Test exitoso: ejercicio2Test
-11:50:24.379 INFO  AUTOMATION - Setup del padre
-11:50:25.088 INFO  AUTOMATION - Comenzando el test: siempreFallaTest
-11:50:25.090 INFO  AUTOMATION - Navegando a: https://the-internet.herokuapp.com/
-11:50:26.116 INFO  AUTOMATION - Obteniendo la url actual
-11:50:26.120 INFO  AUTOMATION - Verificando que las urls sean iguales
-11:50:26.239 INFO  AUTOMATION - Test fallido: siempreFallaTest
-11:50:26.445 INFO  AUTOMATION - Setup del padre
-11:50:27.813 INFO  AUTOMATION - Comenzando el test: cuartoTest
-11:50:27.821 INFO  AUTOMATION - Test exitoso: cuartoTest
-11:50:27.922 INFO  AUTOMATION - Setup del padre
-11:50:29.034 INFO  AUTOMATION - Comenzando el test: primerTest
-11:50:29.036 INFO  AUTOMATION - Test exitoso: primerTest
-11:50:29.164 INFO  AUTOMATION - Setup del padre
-11:50:29.887 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:29.893 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:29.989 INFO  AUTOMATION - Setup del padre
-11:50:30.729 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:30.732 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:30.828 INFO  AUTOMATION - Setup del padre
-11:50:31.555 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:31.558 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:31.666 INFO  AUTOMATION - Setup del padre
-11:50:33.038 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:33.039 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:33.143 INFO  AUTOMATION - Setup del padre
-11:50:33.889 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:33.892 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:34.161 INFO  AUTOMATION - Setup del padre
-11:50:34.883 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:34.886 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:35.022 INFO  AUTOMATION - Setup del padre
-11:50:35.744 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:35.748 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:35.851 INFO  AUTOMATION - Setup del padre
-11:50:36.579 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:36.582 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:36.672 INFO  AUTOMATION - Setup del padre
-11:50:37.412 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:37.415 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:37.510 INFO  AUTOMATION - Setup del padre
-11:50:38.265 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:38.268 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:38.374 INFO  AUTOMATION - Setup del padre
-11:50:39.099 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:39.101 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:39.192 INFO  AUTOMATION - Setup del padre
-11:50:40.628 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:40.631 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:40.733 INFO  AUTOMATION - Setup del padre
-11:50:41.439 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:41.442 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:41.545 INFO  AUTOMATION - Setup del padre
-11:50:42.254 INFO  AUTOMATION - Comenzando el test: quintoTest
-11:50:42.256 INFO  AUTOMATION - Test exitoso: quintoTest
-11:50:42.344 INFO  AUTOMATION - Setup del padre
-11:50:43.056 INFO  AUTOMATION - Comenzando el test: segundoTest
-11:50:43.059 INFO  AUTOMATION - Test exitoso: segundoTest
-11:50:43.222 INFO  AUTOMATION - Setup del padre
-11:50:43.953 INFO  AUTOMATION - Comenzando el test: tercerTest
-11:50:43.955 INFO  AUTOMATION - Test exitoso: tercerTest
-11:50:44.094 INFO  AUTOMATION - Suite finalizada: Surefire suite
+11:17:46.446 INFO  AUTOMATION - Suite iniciada: Default Suite
+11:17:46.574 INFO  AUTOMATION - Setup del padre
+11:17:48.021 INFO  AUTOMATION - Comenzando el test: detalleProductoTest
+11:17:48.054 INFO  AUTOMATION - Navegando a la pagina
+11:17:52.425 INFO  AUTOMATION - Escribiendo el username
+11:17:52.495 INFO  AUTOMATION - Escribiendo el password
+11:17:52.541 INFO  AUTOMATION - Haciendo click en el boton de login
+11:17:54.641 INFO  AUTOMATION - Haciendo click en el primer elemento de la lista
+11:17:54.687 INFO  AUTOMATION - Esperando a que cargue el detalle del producto
+11:17:55.688 INFO  AUTOMATION - Verificando el detalle del producto
+11:17:55.815 INFO  AUTOMATION - Test exitoso: detalleProductoTest
+11:17:56.001 INFO  AUTOMATION - Suite finalizada: Default Suite

@@ -43,4 +43,18 @@ public class BaseTest {
         driver.quit();
 
     }
+
+    protected void sleep(int timeMS) {
+
+        try {
+
+            Thread.sleep(timeMS);
+
+        } catch (InterruptedException interruptedException) {
+
+            Logs.error("InterruptedException: %s" , interruptedException.getLocalizedMessage());
+
+        }
+
+    }
 }

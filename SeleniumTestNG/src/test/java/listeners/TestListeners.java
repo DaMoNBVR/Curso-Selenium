@@ -26,6 +26,7 @@ public class TestListeners implements ITestListener {
 
         Logs.info("Test fallido: %s", result.getName());
         FileManager.getScreenshot(result.getName());
+        FileManager.getPageSource(result.getName());
 
     }
     @Override

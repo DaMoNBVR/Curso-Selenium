@@ -4,6 +4,7 @@ import io.qameta.allure.listener.TestLifecycleListener;
 import io.qameta.allure.model.TestResult;
 import utilities.FileManager;
 import utilities.Logs;
+import utilities.WebDriverProvider;
 
 public class AllureListeners implements TestLifecycleListener {
 
@@ -15,9 +16,12 @@ public class AllureListeners implements TestLifecycleListener {
 
         switch (resultType){
 
-            case BROKEN,FAILED -> FileManager.getScreenshot();
+            case BROKEN,FAILED -> {
+                if (new WebDriverProvider().get() != null) {
+                    FileManager.getScreenshot();
+                    FileManager.getPageSource();
+                }
+            }
         }
-
     }
-
 }

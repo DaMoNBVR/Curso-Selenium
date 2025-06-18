@@ -15,6 +15,8 @@ public class NavegacionTests extends BaseTest {
         Logs.info("Navegando a: %s", url);
         driver.get(url);
 
+        sleep(2000);
+
         Logs.info("Obteniendo la url actual");
         final var currentUrl = driver.getCurrentUrl();
 
@@ -32,11 +34,17 @@ public class NavegacionTests extends BaseTest {
         Logs.info("Navegando a: %s", urlHeroku);
         driver.get(urlHeroku);
 
+        sleep(2000);
+
         Logs.info("Navegando a: %s", urlGithub);
         driver.get(urlGithub);
 
+        sleep(3000);
+
         Logs.info("Regresando a: %s", urlHeroku);
         driver.navigate().back();
+
+        sleep(1500);
 
         Logs.info("Obteniendo la url actual");
         final var currentUrl = driver.getCurrentUrl();
@@ -53,6 +61,8 @@ public class NavegacionTests extends BaseTest {
 
         Logs.info("Navegando a: %s", url);
         driver.get(url);
+
+        sleep(2000);
 
         Logs.info("Obteniendo la url actual");
         final var currentUrl = driver.getCurrentUrl();
